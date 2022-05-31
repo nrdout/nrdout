@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/nrdout)]
+
+[![Gmail Badge](https://img.shields.io/badge/-nrdout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrdout@gmail.com)](mailto:nrdout@gmail.com)
 -->
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/nrdout)]
-
