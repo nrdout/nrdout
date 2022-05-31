@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Contact
 
 <!--
 **nrdout/nrdout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-nrdout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrdout@gmail.com)](mailto:nrdout@gmail.com)
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-nrdout@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:nrdout@gmail.com)](mailto:nrdout@gmail.com)
