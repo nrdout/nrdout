@@ -1,6 +1,6 @@
 # Hi, I'm Nurdin :chicken:
 
-Full-Stack | Software Developer/Engineer | Software Consultant :robot:. (Experienced)<br>
+Full-Stack | Software Developer/Engineer | Software Consultant . (:robot: Experienced)<br>
 <i> Artificial Intelligence (AI) Researcher | Machine Learning (ML) Practitioner | Deep Learning (ML) Practitioner | Data scientist </i>
 
 You have finally discovered my Github profile. <br>
