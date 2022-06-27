@@ -1,6 +1,6 @@
 # Hi, I'm Nurdin :chicken:
 
-**Full-Stack | Software Developer/Engineer | Software Consultant . (:robot: Experienced)**
+**Full-Stack Software Developer/Engineer | Software Consultant . (:robot: Experienced)**
 1. *Artificial Intelligence (AI) Researcher*
 2. *Machine Learning (ML) and Deep Learning (DL) Practitioner*
 3. *Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL) Consultant* 
