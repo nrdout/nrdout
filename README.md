@@ -1,4 +1,4 @@
-# Hi, I'm Nurdin :chicken:
+# Hi, I'm Nurdin Jumanne:chicken:
 
 **Full-Stack Software Developer/Engineer | Software Consultant . (:robot: Experienced)**
 1. *Artificial Intelligence (AI) Researcher*
