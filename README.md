@@ -13,9 +13,9 @@ Please feel free to contact me and raise issues if you think something could be 
 Happy to know me! 😊
 
 <div align="center">
-
+h
 <i>Contact me:</i><br>
-<a href="https://www.linkedin.com/in/nrdout" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="ttps://wa.me/255744372361" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <!--
 <a href="https://www.linkedin.com/in/nrdout" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nrdout" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
